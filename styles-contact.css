@@ -78,6 +78,7 @@ html, body {
 	text-align: center;
 	border-radius: 50px 50px 50px 50px; /*----------this changes the style of background---------*/
 	/*border taken out*/ 
+	padding-top:8% ;
 }
 
    
@@ -132,13 +133,15 @@ nav a{
 	padding: 10px;
 }
 a{
-	color: #444;
+	color: rgb(52, 53, 58);
 	text-decoration: none;
 	font-weight: bold;
+	
 }
 a:hover{
-	color: black;
-	background: rgb(83, 97, 120);
+	color: rgb(254, 254, 255);
+	background: rgb(106, 116, 133);
+	
 }
 .nav-link{
 	font-weight: bold;
